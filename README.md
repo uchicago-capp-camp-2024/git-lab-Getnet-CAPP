@@ -1,6 +1,6 @@
 # CAPP Camp Git Lab
 
-Like yesterday's lab, today's lab will ask you to take some steps with Git and run a `check.py` script as you go.
+Author: Getnet Dejene
 
 Additionally, today you'll be submitting at the end via Gradescope—a tool used in many classes.
 
