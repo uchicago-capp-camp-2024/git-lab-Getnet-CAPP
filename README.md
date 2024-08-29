@@ -4,6 +4,8 @@ Author: Getnet Dejene
 
 Additionally, today you'll be submitting at the end via Gradescope—a tool used in many classes.
 
+MSCAPP CAPP IS GREAT!
+
 Don't worry, we won't be grading your work; submitting is merely to help you get acquainted with tools you'll be using in many classes.
 
 ## Part 1 - Making a First Commit
